@@ -1,5 +1,5 @@
-# Explore and prepare the dataset
-1. First, spend some time exploring the dataset 
+#1.  Explore and prepare the dataset
+ First, spend some time exploring the dataset 
 2. Train a machine learning model
 When your data is ready for modelling, you should train a machine learning model to be able to predict the target outcome, which is a customer making a booking. For this task, you should use an algorithm that easily allows you to output information about how each variable within the model contributes to its predictive power. For example, a RandomForest is very good for this purpose.
 3. Evaluate the model and present the findings
